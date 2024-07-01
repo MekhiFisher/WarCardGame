@@ -2,5 +2,4 @@
 
 
 Technologies:
-JAVA
-Java imports
+JAVA, Java imports
